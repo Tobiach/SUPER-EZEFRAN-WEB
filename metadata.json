@@ -1,0 +1,10 @@
+{
+  "name": "Super EZEFRAN - Marketplace Cultural",
+  "description": "Marketplace premium para productos venezolanos en Argentina. Supermercado especializado con delivery en María Auxiliadora.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
